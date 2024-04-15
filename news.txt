@@ -1,4 +1,4 @@
-[c_orange][scale,2]Dev 3.0 (April, 12th - 2024)[/scale][c_white]
+[c_orange][font_system_15]Dev 3.0 (April, 12th - 2024)[/font][c_white]
 -Fixed a bug that made companions visible to all players on instanced maps. 
 -Fixed a bug where you could get unlimited potions that became ERROR items after relog. 
 -Fixed a bug where opening a second inspect window will turn all other open inspect window into the same player. 
