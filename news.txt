@@ -1,4 +1,1 @@
-This is some news test
-
-this is another line
-and this is a third
+This is some test news.
