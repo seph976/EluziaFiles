@@ -1,4 +1,4 @@
-[c_aqua]RELEASE! Dev 3.0 (April, 12th - 2024)[c_white]
+[c_aqua]Dev 3.0 (April, 12th - 2024)[c_white]
 -Fixed a bug that made companions visible to all players on instanced maps. 
 -Fixed a bug where you could get unlimited potions that became ERROR items after relog. 
 -Fixed a bug where opening a second inspect window will turn all other open inspect window into the same player. 
@@ -19,7 +19,7 @@
 -Made an optional battle tutorial for when you first enter Aurora Forest. 
 -Removed Dulix from the arena for the time being.
 
-DEV2 (February, 16th - 2024)
+[c_aqua]DEV2 (February, 16th - 2024)[c_white]
 -Fixed a bug where if you die in a boss fight you cant refight it. 
 -Fixed a bug that makes hovering over items not work correctly and leading to weird behavior with various systems. 
 -Fixed a small bug with player turning towards events slightly wrong. 
@@ -58,5 +58,5 @@ DEV2 (February, 16th - 2024)
 -Maps and functions for the first dungeon, the Ancient Ruins in Aurora. 
 -Rewrote basically all the networking to use TCP rather than UDP.
 
-DEV1 (December, 31st - 2023)
+[c_aqua]DEV1 (December, 31st - 2023)[c_white]
 -Initial development test release.
