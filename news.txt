@@ -1,1 +1,62 @@
-This is some test news.
+Dev 3.0 (April, 12th - 2024)
+-Fixed a bug that made companions visible to all players on instanced maps. 
+-Fixed a bug where you could get unlimited potions that became ERROR items after relog. 
+-Fixed a bug where opening a second inspect window will turn all other open inspect window into the same player. 
+-Fixed an issue with text input that could lead to invalid logins. 
+-Added a warning when upgrading materia if the new materias level will be too high to use. 
+-Arena fights now fully heal you before a cup starts. 
+-Selecting a focus on level up when at full hp and mp will now heal you so you stay at 100%. 
+-Made a small change to chat buttons. 
+-Added a shop sound when buying and selling items. 
+-Added the Aurora Bow to the blacksmiths shop in Aurora Village. 
+-Added the sleep status condition. 
+-Added materia slots to armor and accessory, now the amount of slots you have available depend on your equipment. 
+-Made it so companions will get a speed boost to catch up to the player if they get too far away. 
+-Changed to a brand new battle system, no longer turn based but trying out a more action oriented one. 
+-Lots and lots of changes and rebalancing for skills and enemies for the new battle system. 
+-All new battle maps for the new battle system. 
+-Updated various enemy descriptions. 
+-Made an optional battle tutorial for when you first enter Aurora Forest. 
+-Removed Dulix from the arena for the time being.
+
+DEV2 (February, 16th - 2024)
+-Fixed a bug where if you die in a boss fight you cant refight it. 
+-Fixed a bug that makes hovering over items not work correctly and leading to weird behavior with various systems. 
+-Fixed a small bug with player turning towards events slightly wrong. 
+-Fixed a bug where pressing enter to chat while moving would desync the player. 
+-Fixed a bug that made inspecting players not work correctly and act slow. 
+-Fixed npc text sometimes getting weird line spaces. 
+-Fixed a bug where exp gained in battle would display slightly wrong sometimes. 
+-Fixed a bug that made resurrecting with a Phoenix Down not work. 
+-Buffed the Aurora Bow. 
+-Nerfed the first boss. 
+-Wasps are no longer floating. 
+-Small adjustments to various enemies. 
+-Changed V-Slash materia to Swordman materia. 
+-Changed Ether to recover 100 mp instead of 75 mp. 
+-Changed to a new EXP formula. 
+-Changed the Inn in Aurora into a Materia Shop / Upgrader. 
+-Added control info to the intro. 
+-Added some info when picking up the bow to explain floating enemies. 
+-Added story quest info to UI with option to toggle it on and off. 
+-Added a global chat, now you can switch between map and global. 
+-Added sidequests and a questlog. 
+-Added purple stat materia. 
+-Added a materia upgrading system, enemies now drop AP used to upgrade materia. 
+-Added individual enemy AI, now some enemies can be less dumb than others. 
+-Added colored text to equipment stats to indicate worse or better stats. 
+-Added an option for text outline quality. 
+-Added a full companion system (party system) for bringing along companions in battle. 
+-Added alternate control type option for those who want to use arrow keys and Z instead of WASD and E. 
+-Added UI themes that can be changed in the options menu. 
+-Added Dulix (good luck). 
+-Map made for Farmhouse on Aurora Island. 
+-Map made for the Campsite on Aurora Island. 
+-Maps made for Fishing Cabin, its interior and cave. 
+-Maps for Mayors Manor and Catacomb added to Aurora Village. 
+-Maps and battles created for Aurora Arena. 
+-Maps and functions for the first dungeon, the Ancient Ruins in Aurora. 
+-Rewrote basically all the networking to use TCP rather than UDP.
+
+DEV1 (December, 31st - 2023)
+-Initial development test release.
