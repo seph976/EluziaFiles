@@ -1,3 +1,11 @@
+[c_orange][font_sys_12b]Dev 3.1 (April 16th - 2024)[/font][/color]
+-Fixed a bug where it showed red MP in battle sometimes even tho you had enough.
+-Added intro splashscreens.
+-Added a notice about browsers for the HTML5 export.
+-Added a basic and unfinished credits window to the main menu.
+-Any items that work on companions in battle can now be used on companions outside of battle.
+-Companion Elixir removed, no need for companion specific items anymore.
+
 [c_orange][font_sys_12b]Dev 3.0 (April, 12th - 2024)[/font][/color]
 -Fixed a bug that made companions visible to all players on instanced maps. 
 -Fixed a bug where you could get unlimited potions that became ERROR items after relog. 
