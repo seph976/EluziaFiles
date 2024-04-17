@@ -1,3 +1,8 @@
+[c_orange][font_sys_12b]Dev 3.2 (April 17th - 2024)[/font][/color]
+-Made some small pixel adjustments to elements on the Companion and Inspect windows.
+-Fixed status icons for silence and sleep.
+-Fixed a bug where any healing item could heal the companion while at 0 HP from the menu.
+
 [c_orange][font_sys_12b]Dev 3.1 (April 16th - 2024)[/font][/color]
 -Fixed a bug where it showed red MP in battle sometimes even tho you had enough.
 -Added intro splashscreens.
