@@ -1,3 +1,55 @@
+[c_orange][font_sys_12b]Dev 4.0 (April, 10th - 2026)[/font][/color]
+-Fixed a bug where the game couldnt log in if no sidequest was tracked.
+-Fixed some minor issues with the companion UI.
+-Fixed an issue where some character cusomization combos crashed the game and optimized convo images.
+-Fixed some small desync issues with paused characters.
+-Fixed up the "Bright" theme, its now flat blue which looks way better.
+-Fixed some weird pixels on all of clothes 2 options for character model 3.
+-Fixed some textbox issues and added a window for textbox names.
+-Fixed a weird text input bug.
+-Added more story quests.
+-Added Poison Jab to Swordman materia which can now be upgraded to level 2.
+-Added minor stat changes to every materia.
+-Added a new default theme, all the old ones are still optional.
+-Added the Zombie status effect.
+-Added new items and equipment.
+-Added Anti-Zombie ability.
+-Added Millionaire ability.
+-Added rarity based background colors to item icons on hover info.
+-Added new maps for Abandoned Mansion.
+-Added new enemies for the mansion area.
+-Added Protect Materia with Barrier and Magic Barrier skills.
+-Added Poison Materia.
+-Added a new companion unlockable by following the main quest.
+-Added the underground and Thieves Guild to Aurora Village.
+-Added map for the Powerstation.
+-Added a new character to the character creator.
+-Added new armor, Ancient Aurora Armor.
+-Changed the description of some healing items.
+-Changed the way characters are drawn in conversations to not cover half the screen.
+-Changed the way item drops work with multipliers.
+-Changed how items are handled internally from using string names to IDs.
+-Changed the way status effects are displayed.
+-Changed rarity colors.
+-Changed main UI buttons, its now a menu that can be shown or hidden.
+-Changed the EXP formula, and re-balanced all the enemies to drop more EXP.
+-EXP now carries over on level ups, making it possible to level several times per battle.
+-Combined the HP Ring and the MP Ring into a single ring (Ancient Aurora Ring).
+-Ancient Aurora equipment is now gained randomly from boxes found in the dungeon.
+-You can now resurrect in the middle of battle with a phoenix down, no need to restart.
+-Small adjustment to AP required text in the materia upgrade window.
+-Skill info now shows more accurate power based on your stats instead of just base power.
+-Quest rewards have been changed a bit.
+-Nerfed the first boss MATK and DEF/MDEF.
+-Nerfed magic weakness from 2x damage to 1.5x damage.
+-Nerfed and changed up Dulix a little bit. (Still an annoying hard fight)
+-Made the chatbox hidable with TAB, press it again to bring it back.
+-Made some small changes to the story dialogue.
+-Made changes to the event system and puppets to improve cutscene functions.
+-Made a new WIP title screen.
+-Reverted back to the old turn based battle system, but with a few changes.
+-An insane amount of changes to enemies, companions, skills and items for the battle change.
+
 [c_orange][font_sys_12b]Dev 3.2 (April 17th - 2024)[/font][/color]
 -Made some small pixel adjustments to elements on the Companion and Inspect windows.
 -Fixed status icons for silence and sleep.
