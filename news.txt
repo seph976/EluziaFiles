@@ -1,3 +1,17 @@
+[c_orange][font_sys_12b]Dev 4.1 (April, 28th - 2026)[/font][/color]
+-Fixed a bug that caused crashes on HTML builds due to mapsetup draw calls.
+-Made a slight change to error IDs.
+-Remade the settings window to make room for more options.
+-Added a new option for displaying companions in game.
+-Added a new option for displaying player levels on characters.
+-Changed the ingame menu text font to be bold.
+-Changed some colors and the way player names are displayed internally.
+-Added a system tab to the chat that keeps track of various ingame things.
+-Added the ability to buy max or sell all by holding left shift in store.
+-Added fishing system and a quest for it at the Fishing Cabin.
+-Added an exchange system currently used for exchanging fish for items.
+-Various smaller bug fixes and adjustments.
+
 [c_orange][font_sys_12b]Dev 4.0 (April, 10th - 2026)[/font][/color]
 -Fixed a bug where the game couldnt log in if no sidequest was tracked.
 -Fixed some minor issues with the companion UI.
