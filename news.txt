@@ -1,3 +1,16 @@
+[c_orange][font_sys_12b]Dev 4.2 (May, 1st - 2026)[/font][/color]
+-Companions are now controllable and will no longer auto attack in battle.
+-Companion skills changed a little bit.
+-Default companions SPD has been changed from 75 to 100.
+-Made some changes to companion info windows.
+-Made a limit to purple stat materia, only one of each can be equipped.
+-Aurora TP Scroll can now be bought in the general store in Aurora Village.
+-Added a code redemption button in the menu.
+-Added a notification icon when fishing is available.
+-Added new fishing bait: Fishing Magnet.
+-Companions now teleport to the player if they get stuck.
+-Various smaller bug fixes and adjustments.
+
 [c_orange][font_sys_12b]Dev 4.1 (April, 28th - 2026)[/font][/color]
 -Fixed a bug that caused crashes on HTML builds due to mapsetup draw calls.
 -Made a slight change to error IDs.
