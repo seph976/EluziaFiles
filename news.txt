@@ -1,3 +1,18 @@
+[c_orange][font_sys_12b]Dev 4.3 (May, 5th - 2026)[/font][/color]
+-Changed how encounter rate works, should be overall way lower.
+-Changed how enemy weapons work, now it always uses base power instead of weapon power.
+-Reworked the code for the character creator.
+-New item Magic Mirror added to fishing exchange, used for changing character appearance.
+-Fixed an issue where the bow was slower on attack despite having more SPD.
+-Fixed a weird issue with resetting command menus in battle.
+-Fixed lack of equipment sfx when equipping materia.
+-Added the First-Strike ability.
+-Added new LV10 equipment to Aurora Blacksmith.
+-Added some more basic admin functionality.
+-Gave Ancient Aurora Ring a materia slot.
+-Various smaller bug fixes and adjustments.
+
+
 [c_orange][font_sys_12b]Dev 4.2 (May, 1st - 2026)[/font][/color]
 -Companions are now controllable and will no longer auto attack in battle.
 -Companion skills changed a little bit.
