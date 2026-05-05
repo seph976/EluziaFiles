@@ -12,7 +12,6 @@
 -Gave Ancient Aurora Ring a materia slot.
 -Various smaller bug fixes and adjustments.
 
-
 [c_orange][font_sys_12b]Dev 4.2 (May, 1st - 2026)[/font][/color]
 -Companions are now controllable and will no longer auto attack in battle.
 -Companion skills changed a little bit.
